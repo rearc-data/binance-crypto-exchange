@@ -37,7 +37,7 @@ For more details on the technologies used in our ADX products, please visit [Get
 ## How can I contribute?
 
 #### Report an Issue/Bug or Submit an Improvement/Suggestion
-If you have feedback specific to the ADX product featured in this repository, the best way to contact us would be through [opening a GitHub issue]() in this repository. Before opening an issue please review the existing suggestions to see if your idea is already there. If already present, please comment on the existing issue instead of making a new one.
+If you have feedback specific to the ADX product featured in this repository, the best way to contact us would be through [opening a GitHub issue](https://github.com/rearc-data/binance-crypto-exchange/issues) in this repository. Before opening an issue please review the existing suggestions to see if your idea is already there. If already present, please comment on the existing issue instead of making a new one.
 
 When opening an issue please **be as descriptive as possible**. If relevant please **provide information regarding your use-case, development configuration and environment**. The more specific you can be the easier it will be for us to identify and address the situation.
 

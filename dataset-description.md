@@ -1,0 +1,1 @@
+The Binance Data Exchange provides open, high, low, and close(OHLC) prices and volume amount(cryptocurrency and USD). The data presented shows cyptocurrency prices based in terms of USD and other cryptocurrencies(i.e. BTC in USD compared to ETH in BTC). The timeframe is given as a Unix timestamp.
